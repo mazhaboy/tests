@@ -7,4 +7,5 @@ func main() {
 	fmt.Println(&array[0])
 	array[0] = 20
 	fmt.Println(&array[0])
+	fmt.Println("Hello world!")
 }
